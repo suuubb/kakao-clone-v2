@@ -1,0 +1,9 @@
+.more .more__btn-list {
+    margin: 30px 0px;
+    display: flex;
+    align-items: center;
+    }
+
+.more__btn-list .more__btn {
+    margin-right: 30px;
+}
